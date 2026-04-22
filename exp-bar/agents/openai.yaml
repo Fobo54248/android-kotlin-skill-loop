@@ -1,0 +1,6 @@
+interface:
+  display_name: "exp-bar"
+  short_description: ""
+  default_prompt: "Use exp-bar for this task."
+policy:
+  allow_implicit_invocation: true
