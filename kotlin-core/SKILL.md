@@ -3,7 +3,7 @@ name: kotlin-core
 description: Use when working with general Kotlin code and needing detailed guidance for implementing, reviewing, debugging, refactoring, or explaining idiomatic Kotlin. Apply this skill for Kotlin language fundamentals, coding conventions, null safety, data and sealed models, collections, extension functions, coroutines, Flow, serialization, testing, Java interop, and API design across backend, Android, CLI, and library codebases.
 ---
 
-# Kotlin Core
+# kotlin-core
 
 Use this skill for Kotlin-first work where the main challenge is writing good Kotlin rather than using one specific framework.
 

@@ -3,7 +3,7 @@ name: exp-bar
 description: Use when the user wants to capture worked examples, mistakes, fixes, and lessons learned from Kotlin and Android development into a structured experience note. Apply this skill after solving a Kotlin or Android problem to summarize the problem, plan, solution, result, level-up, and extracted reusable skill in a dedicated markdown note that strengthens future work alongside android-stack and kotlin-core.
 ---
 
-# Exp Bar
+# exp-bar
 
 Use this skill after a Kotlin or Android task is solved and the user wants to turn the work into reusable experience.
 

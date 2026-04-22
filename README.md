@@ -1,4 +1,4 @@
-# Android/Kotlin Skill Loop
+# android/kotlin skill loop
 
 This repository contains a local skill system for Kotlin and Android development, plus an experience loop for capturing lessons and promoting them into better skills over time.
 

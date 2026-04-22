@@ -3,7 +3,7 @@ name: android-stack
 description: Use when working on Android apps built with Kotlin, Jetpack Compose, MVVM, Navigation, Hilt, Retrofit, Room, and Kotlin Flow. Apply this skill when implementing features, reviewing architecture, debugging state flow, refactoring layers, wiring dependency injection, handling local and remote data, or structuring Android code across DTO, Entity, Domain, Repository, UseCase, ViewModel, and UiState.
 ---
 
-# Android Stack
+# android-stack
 
 Use this skill for feature work in Android apps that follow a layered Kotlin architecture with Compose UI, ViewModel-driven state, dependency injection, network access, local persistence, and reactive data flow.
 
