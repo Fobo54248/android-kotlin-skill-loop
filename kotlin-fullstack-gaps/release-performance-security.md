@@ -1,4 +1,4 @@
-# Release Performance Security
+# release performance security
 
 Этот файл нужен для production-hardening, а не для повседневной feature coding.
 

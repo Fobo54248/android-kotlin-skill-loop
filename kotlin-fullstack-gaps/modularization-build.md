@@ -1,4 +1,4 @@
-# Modularization And Build
+# modularization and build
 
 Этот файл нужен для роста проекта beyond one-app-module architecture.
 

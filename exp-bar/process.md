@@ -1,4 +1,4 @@
-# Exp Bar Process
+# exp bar process
 
 This file defines the full learning loop for Kotlin and Android work.
 
@@ -10,7 +10,7 @@ Its job is to prevent:
 - random placement of new knowledge
 - confusion between raw experience and stable guidance
 
-## System roles
+## system roles
 
 There are three layers in this system:
 
@@ -52,7 +52,7 @@ Purpose:
 - define how the skill should think
 - stay compact and structural
 
-## The learning loop
+## the learning loop
 
 ### Phase 1: Solve the task
 
@@ -104,7 +104,7 @@ The note should first prove that it is:
 - repeated
 - general enough
 
-## Promotion rules
+## promotion rules
 
 This system has three promotion levels.
 
@@ -139,7 +139,7 @@ Promote a lesson into `SKILL.md` only when:
 
 Only core rules belong here.
 
-## Where new knowledge goes
+## where new knowledge goes
 
 Use these placement rules.
 
@@ -183,7 +183,7 @@ The lesson is:
 - too project-specific
 - still unproven
 
-## Anti-duplication rules
+## anti-duplication rules
 
 Before promoting any lesson:
 
@@ -197,7 +197,7 @@ If the idea already exists:
 - either strengthen the old wording
 - or add the new note as supporting evidence only
 
-## Quality gate for promotion
+## quality gate for promotion
 
 Before adding any new line to a core skill, ask:
 
@@ -209,7 +209,7 @@ Before adding any new line to a core skill, ask:
 
 If the answer is not clearly yes, do not promote it.
 
-## Frequency thresholds
+## frequency thresholds
 
 Use this default threshold model:
 
@@ -219,7 +219,7 @@ Use this default threshold model:
 
 These are heuristics, not laws, but they are the default.
 
-## What not to store in core skills
+## what not to store in core skills
 
 Do not push these into `SKILL.md`:
 
@@ -230,7 +230,7 @@ Do not push these into `SKILL.md`:
 - detailed debugging timeline
 - long examples that belong in notes or references
 
-## What counts as a core-skill line
+## what counts as a core-skill line
 
 A new line in `SKILL.md` should usually be one of:
 
@@ -242,7 +242,7 @@ A new line in `SKILL.md` should usually be one of:
 
 If it is not one of these, it probably does not belong in `SKILL.md`.
 
-## Review rhythm
+## review rhythm
 
 Use this maintenance rhythm:
 
@@ -252,7 +252,7 @@ Use this maintenance rhythm:
 
 This keeps the system stable and prevents chaotic growth.
 
-## The final principle
+## the final principle
 
 `exp-bar` is the intake buffer.
 

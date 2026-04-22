@@ -2,18 +2,18 @@
 
 This repository contains a local skill system for Kotlin and Android development, plus an experience loop for capturing lessons and promoting them into better skills over time.
 
-## Main skills
+## main skills
 
 - `kotlin-core` — general Kotlin language and design guidance
 - `android-stack` — Android app architecture guidance for Compose, MVVM, Navigation, Hilt, Retrofit, Room, Flow, and layered app structure
 - `exp-bar` — structured experience capture and skill level-up after solving Kotlin or Android problems
 
-## Supporting drafts
+## supporting drafts
 
 - `kotlin-fullstack-gaps` — gap notes for areas not yet promoted into the main skills
 - `android-modern-stack` — early draft folder kept as historical scratch material
 
-## Recommended usage
+## recommended usage
 
 1. Use `android-stack` while building Android app features.
 2. Use `kotlin-core` when the main problem is Kotlin language or API design.
@@ -27,7 +27,7 @@ This repository contains a local skill system for Kotlin and Android development
    - `Lvl Up`
    - `Skill +1`
 
-## Repository structure
+## repository structure
 
 ```text
 android-stack/
@@ -36,7 +36,7 @@ kotlin-core/
 kotlin-fullstack-gaps/
 ```
 
-## Notes
+## notes
 
 - `exp-bar/process.md` defines how raw experience becomes reusable guidance.
 - The main skills should stay compact.

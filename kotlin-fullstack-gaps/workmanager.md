@@ -1,4 +1,4 @@
-# WorkManager
+# workmanager
 
 Этот файл закрывает background work, deferred jobs и надежное выполнение задач вне активного экрана.
 

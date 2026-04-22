@@ -1,4 +1,4 @@
-# Paging
+# paging
 
 Этот файл нужен для long lists, pagination, remote mediation и incremental loading UX.
 

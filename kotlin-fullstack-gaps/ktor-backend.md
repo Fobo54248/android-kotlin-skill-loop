@@ -1,4 +1,4 @@
-# Ktor Backend
+# ktor backend
 
 Этот файл нужен, если fullstack Kotlin skill должен действительно включать backend, а не только Android app code.
 

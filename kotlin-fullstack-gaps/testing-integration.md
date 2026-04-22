@@ -1,4 +1,4 @@
-# Testing Integration
+# testing integration
 
 Этот файл нужен для стыка unit, integration, UI, and end-to-end testing in a real Kotlin product.
 

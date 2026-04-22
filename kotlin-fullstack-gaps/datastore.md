@@ -1,4 +1,4 @@
-# DataStore
+# datastore
 
 Этот файл нужен для app preferences, lightweight local state и migration away from SharedPreferences.
 

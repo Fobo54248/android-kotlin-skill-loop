@@ -1,40 +1,40 @@
-# Title
+# title
 
-## Problem
+## problem
 
 What was broken, unclear, or hard?
 
-## Plan
+## plan
 
 What did we think we were going to do?
 
-## Attempts
+## attempts
 
 - Attempt 1
 - Attempt 2
 - Attempt 3
 
-## Solution
+## solution
 
 What finally worked?
 
-## Result
+## result
 
 What is now true after the fix?
 
-## Exp Bar
+## exp bar
 
 What concrete experience did we gain?
 
-## Lvl Up
+## lvl up
 
 What understanding became sharper?
 
-## Skill +1
+## skill +1
 
 What reusable rule, pattern, or instinct should carry into future tasks?
 
-## Related Base
+## related base
 
 Which existing base does this reinforce?
 

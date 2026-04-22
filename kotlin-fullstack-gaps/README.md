@@ -1,4 +1,4 @@
-# Kotlin Fullstack Gaps
+# kotlin fullstack gaps
 
 Это рабочая заготовка под пробелы, которые пока не покрыты `kotlin-core` и `android-stack`.
 

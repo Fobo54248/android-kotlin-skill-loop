@@ -1,4 +1,4 @@
-# Kotlin Multiplatform
+# kotlin multiplatform
 
 Этот файл нужен, если под “fullstack Kotlin” мы реально хотим понимать shared code across Android and beyond.
 

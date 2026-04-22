@@ -1,4 +1,4 @@
-# Offline And Sync
+# offline and sync
 
 Этот файл нужен для offline-first поведения, cache policy и reconciliation between local and remote state.
 
