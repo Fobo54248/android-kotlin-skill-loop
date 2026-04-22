@@ -36,6 +36,7 @@ Capture:
 - what we thought we would do
 - what we actually did
 - what finally worked
+- what was actually delivered in the solved task
 - what changed in understanding
 - what reusable rule or pattern we gained
 
@@ -80,9 +81,10 @@ Capture the task in this order:
 3. `Attempts`
 4. `Solution`
 5. `Result`
-6. `Exp Bar`
-7. `Lvl Up`
-8. `Skill +1`
+6. `feature report`
+7. `Exp Bar`
+8. `Lvl Up`
+9. `Skill +1`
 
 ### Step 2: Filter for signal
 
@@ -186,6 +188,18 @@ What finally worked?
 
 What is now true after the fix?
 
+## feature report
+
+What was actually delivered?
+
+- implemented
+- fixed
+- refactored
+- verified
+- deferred
+
+What changed for the user, developer, screen, feature, or codebase?
+
 ## Exp Bar
 
 What concrete experience did we gain?
@@ -230,6 +244,7 @@ A good note should let future us answer:
 - What worked last time?
 - What mistake should we skip?
 - What decision rule did we earn?
+- What was actually delivered or completed in the task?
 
 It should also answer:
 

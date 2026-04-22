@@ -22,6 +22,18 @@ What finally worked?
 
 What is now true after the fix?
 
+## feature report
+
+What was actually delivered?
+
+- implemented
+- fixed
+- refactored
+- verified
+- deferred
+
+What changed for the user, developer, screen, feature, or codebase?
+
 ## exp bar
 
 What concrete experience did we gain?
