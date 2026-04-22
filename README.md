@@ -1,6 +1,6 @@
-# Kotlin And Android Skills Set
+# Android/Kotlin Skill Loop
 
-This repository contains a small local skill system for Kotlin and Android development.
+This repository contains a local skill system for Kotlin and Android development, plus an experience loop for capturing lessons and promoting them into better skills over time.
 
 ## Main skills
 
